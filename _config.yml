@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuelin Yao"
 title_separator          : "-"
 name                     : &name "Yuelin"
-description              : &description "personal description"
+description              : &description "PhD student at School of Informatics, University of Edinburgh and MRC Human Genetics Unit, Institute of Genetics and Cancer."
 url                      : https://YuelinYao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuelinYao.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yuelin Yao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student at School of Informatics, Univeristy of Edinburgh"
+  location         : "Edinburgh, UK"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=RPoZ-I8AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "YuelinYao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "yaoyuelin11"
   vine             :
   weibo            :
   xing             :
