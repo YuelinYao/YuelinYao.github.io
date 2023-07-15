@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Yuelin_CV.pdf](Yuelin_CV.pdf)
+[View my CV](Yuelin_CV.pdf)
