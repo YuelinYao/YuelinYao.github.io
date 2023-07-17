@@ -3,7 +3,7 @@ title: "Primary cilia loss promotes reactivation of morphogenesis and cyst-fissi
 collection: publications
 permalink: /publication/2022-04-08-Primary_cilia_loss
 excerpt: 'We deleted Wdr35 from adult bile ducts, which caused these cells to lose primary cilia, an important sensory organelle that normally
-senses the environment within bile duct. A year after Wdr35 deletion, bile ducts dilated and formed polycystic liver disease. We used scRNA-seq to identify the transcriptional difference between case and control.'
+senses the environment within bile duct. A year after Wdr35 deletion, bile ducts dilated and formed polycystic liver disease. We used scRNA-seq and identified that cystic biliary cells were very transcriptionally different to normal bile ducts and demonstrated high TGF-beta signalling.'
 date: 2022-04-08
 venue: 'BioRxiv'
 paperurl: ''
