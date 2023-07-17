@@ -21,10 +21,31 @@ redirect_from:
 Feel free to get in touch if you want to learn more about me! ☕️ 😃
 
 ## Education
-| Nov. 2020 - present |  Ph.D. in Bioinformatics at the University of Edinburgh <br> Supervisors: [Ava Khamseh](https://edbiomed.ai/people/), [Chris Ponting](https://www.ed.ac.uk/profile/chris-ponting) and [Luke Boulter](https://www.ed.ac.uk/profile/luke-boulter) |
-| :--------  | :-------- |
-| 2019 - 2020  |M.Sc. (Distinction) in Bioinformatics at the University of Edinburgh <br> Supervisor: [Lingzhao Fang](https://scholar.google.com/citations?user=cgcFdCkAAAAJ&hl=en)|
-| 2015 - 2019 | B.Sc. (Honours) in Plant Protection at Zhejiang University <br> Supervisors: Yanyuan Bao   |
+<table><tbody>
+  <tr>
+    <td>Nov. 2020 - present</td>
+    <td>
+      Ph.D. in Bioinformatics at the University of Edinburgh<br>
+      Supervisors: <a href="https://edbiomed.ai/people/" target="_blank">Ava Khamseh</a>, <a href="https://www.ed.ac.uk/profile/chris-ponting" target="_blank">Chris Ponting</a> and <a href="https://www.ed.ac.uk/profile/luke-boulter" target="_blank">Luke Boulter</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2019 - 2020</td>
+    <td>
+      M.Sc. (Distinction) in Bioinformatics at the University of Edinburgh<br>
+      Supervisors: <a href="https://scholar.google.com/citations?user=cgcFdCkAAAAJ&hl=en">Lingzhao Fang</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2015 - 2019</td>
+    <td>
+      B.Sc. (Honours) in Plant Protection at Zhejiang University<br>
+      Supervisors: Yanyuan Bao
+      </td>
+  </tr>
+</tbody>
+</table>
+
 
 
 
