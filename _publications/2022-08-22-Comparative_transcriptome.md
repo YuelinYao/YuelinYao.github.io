@@ -1,6 +1,5 @@
 ---
 title: "Comparative transcriptome in large-scale human and cattle populations
-Authors
 "
 collection: publications
 permalink: /publication/2022-08-22-Comparative_transcriptome
