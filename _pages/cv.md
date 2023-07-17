@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <p align="left">
-   <img src="../images/Science.gif" />
+   <img src="../images/Science_1.gif" />
 </p>
 
 
