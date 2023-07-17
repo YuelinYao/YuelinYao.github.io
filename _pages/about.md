@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image](images/RNA.webp)
+![image](../images/RNA.webp)
 
 ❤️ Hello! I am Yuelin. I am pursuing a PhD at the  [School of Informatics](https://www.ed.ac.uk/informatics), University of Edinburgh, and [MRC Human Genetics Unit](https://www.ed.ac.uk/mrc-human-genetics-unit), Institute of Genetics and Cancer, where I am supervised by [Ava Khamseh](https://edbiomed.ai/people/) (primary), [Chris Ponting](https://www.ed.ac.uk/profile/chris-ponting) and [Luke Boulter](https://www.ed.ac.uk/profile/luke-boulter). 
 
