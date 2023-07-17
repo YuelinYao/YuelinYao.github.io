@@ -8,5 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+<p align="center">
+   <img src="../images/Science.gif" />
+</p>
 
-[View my CV](Yuelin_CV.pdf)
+
+To learn more about me, please download my CV.
+
+❣️[View Yuelin's CV](Yuelin_CV.pdf)
