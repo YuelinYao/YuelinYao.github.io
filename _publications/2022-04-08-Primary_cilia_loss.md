@@ -9,4 +9,4 @@ paperurl: ''
 citation: 'Waddell, Scott H., Yuelin Yao, Paula Olaizola, Edward J. Jarman, Konstantinos Gournopanos, Ersi Christodoulou, Philippe Gautier et al. "Primary cilia loss promotes reactivation of morphogenesis and cyst-fission through a deregulated TGFβ-ECM-Integrin axis in polycystic liver disease." bioRxiv (2022): 2022-04.'
 ---
 
-[Download paper here](https://www.biorxiv.org/content/10.1101/2022.04.08.487546v1.full.pdf)
+[Download paper here](https://www.biorxiv.org/content/10.1101/2022.04.08.487546v1)
