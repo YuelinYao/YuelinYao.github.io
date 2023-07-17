@@ -33,7 +33,7 @@ Feel free to get in touch if you want to learn more about me! ☕️ 😃
   <tr>
     <td>2019 - 2020</td>
     <td>
-      M.Sc. in Bioinformatics at the University of Edinburgh<br>
+      M.Sc. (Distinction) in Bioinformatics at the University of Edinburgh<br>
       Supervisors: <a href="https://scholar.google.com/citations?user=cgcFdCkAAAAJ&hl=en">Lingzhao Fang</a>
     </td>
   </tr>
