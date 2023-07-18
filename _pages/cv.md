@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-<p align="center">
+<p align="left">
    <img src="../images/Agmh.gif" />
 </p>
 
