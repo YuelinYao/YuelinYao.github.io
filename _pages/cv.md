@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 <p align="center">
-   <img src="../images/Science_1.gif" />
+   <img src="../images/Agmh.gif" />
 </p>
 
 To learn more about me, please [download](Yuelin_CV.pdf) my CV.
