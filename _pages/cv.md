@@ -11,6 +11,7 @@ redirect_from:
    <img src="../images/Science_1.gif" />
 </p>
 
-To learn more about me, please download my CV. ❣️[View Yuelin's CV](Yuelin_CV.pdf)
+To learn more about me, please [download](Yuelin_CV.pdf) my CV.
+
 
 
