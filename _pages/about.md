@@ -16,7 +16,7 @@ redirect_from:
 
 🧬 💻 My research focus is applying computational and statistical techniques to investigate molecular mechanisms underlying disease initiation and progression with scRNA-seq data. I have experience in estimating mutational interactions across pan-cancer using a model-free approach with the whole genome sequencing data. Areas of interest also include comparative transcriptomics and population genomics 👫 🐂 🐖. 
 
-🏓 🏃‍♀️ 🎵 🎤 🎨 ✈️ 🦋 🥖 🎲 📸 📖 🎬 🍿 When I am not in the lab, I enjoy doing sports, drawing, traveling, baking... A few of thoes are listed in Blog.
+🏓 🏃‍♀️ 🎵 🎤 🎨 ✈️ 🦋 🥖 🎲 📸 📖 🎬 🍿 When I am not in the lab, I enjoy doing sports, drawing, traveling, baking... A few of those are listed in Blog.
 
 Feel free to get in touch if you want to learn more about me! ☕️ 😃
 
