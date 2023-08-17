@@ -8,7 +8,7 @@ date: 2014-02-01
 location: "London, UK"
 ---
 
-*A highly interdisciplinary research school, involving mathematicians, theoretical experimental biologists and medical doctors, to highlight and discuss the latest statistical and mathematical practices that could help improve cancer care*
+*A highly interdisciplinary research school, involving mathematicians, theoretical experimental biologists and medical doctors, to highlight and discuss the latest statistical and mathematical practices that could help improve cancer care.*
 
 
 INFO
