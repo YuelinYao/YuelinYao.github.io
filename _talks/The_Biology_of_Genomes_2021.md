@@ -1,7 +1,7 @@
 ---
 title: "Conference CSHL The Biology of Genomes 2021"
 collection: conference
-type: "presentation"
+type: "Presentation"
 permalink: /talks/The_Biology_of_Genomes_2021
 venue: "Cold Spring Harbor Laboratory"
 date: 2021-05-11
