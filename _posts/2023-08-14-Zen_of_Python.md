@@ -1,7 +1,7 @@
 ---
 title: 'Zen of Python'
 date: 2023-08-14
-permalink: /posts/2023-08-Zen_of_Python/
+permalink: /posts/2023-08-14-Zen_of_Python/
 tags:
   - cool posts
   - Python
