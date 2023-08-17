@@ -14,12 +14,13 @@ INFO
 ======
 
 Discussion Themes:
--Single Cell
--Personalized Medicine and Biomarkers
--Imaging
--Machine Learning
--Algorithmics
--Tools, Infrastructure, and Visualization
+
+- Single Cell
+- Personalized Medicine and Biomarkers
+- Imaging
+- Machine Learning
+- Algorithmics
+- Tools, Infrastructure, and Visualization
 
 
 Poster presentation
