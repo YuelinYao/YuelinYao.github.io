@@ -14,3 +14,4 @@ Course Materials
 ======
 Materials are also being collected into a Jupyter notebook, available at [deeplearning.neuromatch.io](deeplearning.neuromatch.io)
 
+[Certification](/images/neuromatch_certification.pdf)
