@@ -1,7 +1,7 @@
 ---
 title: "Conference CSHL Biological Data Science 2022"
 collection: presentations
-type: "Presentations"
+type: "Presentation"
 permalink: /talks/Biological_data_science
 venue: "Cold Spring Harbor Laboratory"
 date: 2022-11-09
