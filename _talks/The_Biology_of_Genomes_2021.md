@@ -4,7 +4,7 @@ collection: conference
 type: "presentation"
 permalink: /talks/The_Biology_of_Genomes_2021
 venue: "Cold Spring Harbor Laboratory"
-date: 2013-03-01
+date: 2021-05-11
 location: "Virtual"
 ---
 
