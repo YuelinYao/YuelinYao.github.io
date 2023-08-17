@@ -7,13 +7,3 @@ venue: "Cold Spring Harbor Laboratory"
 date: 2022-11-09
 location: "1 Bungtown Rd, Cold Spring Harbor, NY 11724, United States"
 ---
-
-## Conference INFO
-Discussion Themes:
-Single Cell
-Personalized Medicine and Biomarkers
-Imaging
-Machine Learning
-Algorithmics
-Tools, Infrastructure, and Visualization
-
