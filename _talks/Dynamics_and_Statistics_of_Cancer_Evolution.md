@@ -3,9 +3,9 @@ title: "Dynamics and Statistics of Cancer Evolution Research School"
 collection: conference
 type: "Workshop"
 permalink: /talks/Dynamics_and_Statistics_of_Cancer_Evolution
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+venue: "CIRM"
+date: 2022-06-06
+location: "Centre International de Rencontres Mathématiques, Marseille"
 ---
 
 *A highly interdisciplinary research school, involving mathematicians, theoretical experimental biologists and medical doctors, to highlight and discuss the latest statistical and mathematical practices that could help improve cancer care.*
