@@ -13,7 +13,7 @@ Cool things with python, give it a try ;D
 import this
 import __hello__
 import antigravity
-import __future__ from braces
+from __future__ import braces
 from __future__ import barry_as_FLUFL
 ```
 
