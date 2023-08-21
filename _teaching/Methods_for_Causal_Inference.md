@@ -1,5 +1,5 @@
 ---
-title: "Methods for Causal Inference"
+title: "Tutor and Marker: Methods for Causal Inference"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/Methods_for_Causal_Inference
