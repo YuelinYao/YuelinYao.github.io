@@ -33,14 +33,14 @@ Feel free to get in touch if you want to learn more about me! ☕️ 😃
     <td> 🎓 2019 - 2020</td>
     <td>
       M.Sc. (Distinction) in Bioinformatics at the University of Edinburgh<br>
-      Supervisors: <a href="https://scholar.google.com/citations?user=cgcFdCkAAAAJ&hl=en">Lingzhao Fang</a>
+      Supervisor: <a href="https://scholar.google.com/citations?user=cgcFdCkAAAAJ&hl=en">Lingzhao Fang</a>
     </td>
   </tr>
   <tr>
     <td> 🎓 2015 - 2019</td>
     <td>
       B.Sc. (Honours) in Plant Protection at Zhejiang University<br>
-      Supervisors: Yanyuan Bao
+      Supervisor: Yanyuan Bao
       </td>
   </tr>
 </tbody>
