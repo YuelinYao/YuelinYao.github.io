@@ -1,6 +1,6 @@
 ---
 title: 'Oil Pastel Drawings'
-date: 2023-08-14
+date: 2023-09-16
 permalink: /posts/2023-09-16-Oil_pastel_drawings/
 tags:
   - cool posts
