@@ -14,6 +14,6 @@ My Oil Pastel Drawings ;D
    <img src="../images/IMG_2416.png" width="400" height="400" />
 
 
-   <img src="../images/IMG_2417" width="400" height="400"/>
+   <img src="../images/IMG_2417.png" width="400" height="400"/>
 
 
