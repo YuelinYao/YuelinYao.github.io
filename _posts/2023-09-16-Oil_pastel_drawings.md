@@ -11,9 +11,9 @@ tags:
 My Oil Pastel Drawings ;D
 
 
-   <img src="../images/IMG_2416.png" width="400" height="400" />
+   <img src="../images/Aurora.png" width="400" height="400" />
 
 
-   <img src="../images/IMG_2417.png" width="400" height="400"/>
+   <img src="../images/Waterlily.png" width="400" height="400"/>
 
 
