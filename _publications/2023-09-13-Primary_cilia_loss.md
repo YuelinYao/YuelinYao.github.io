@@ -6,7 +6,7 @@ excerpt: 'Pathological liver cysts are an important comorbidity in multiple dise
 date: 2023-09-13
 venue: 'Science Translational Medicine'
 paperurl: ''
-citation: 'Waddell, Scott H.*, Yuelin Yao*, Paula Olaizola, Edward J. Jarman, Konstantinos Gournopanos, Ersi Christodoulou, Philippe Gautier et al. "A TGFβ-ECM-integrin signaling axis drives structural reconfiguration of the bile duct to promote polycystic liver disease." Science Translational Medicine 15, no.713 (2023):10.1126/scitranslmed.abq5930'
+citation: 'Waddell, Scott H.*, Yuelin Yao*, Paula Olaizola, Edward J. Jarman, Konstantinos Gournopanos, Ersi Christodoulou, Philippe Gautier et al. "A TGFβ-ECM-integrin signaling axis drives structural reconfiguration of the bile duct to promote polycystic liver disease." Science Translational Medicine 15, no.713 (2023): 10.1126/scitranslmed.abq5930'
 ---
 
 [Download paper here](https://www.science.org/doi/10.1126/scitranslmed.abq5930)
