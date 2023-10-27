@@ -7,7 +7,7 @@ excerpt: 'Cross-species comparison of transcriptomes is important for elucidatin
 date: 2022-08-22
 venue: 'Genome Biology'
 paperurl: ''
-citation: 'Yao, Yuelin, Shuli Liu, Charley Xia, Yahui Gao, Zhangyuan Pan, Oriol Canela-Xandri, Ava Khamseh et al. "Comparative transcriptome in large-scale human and cattle populations." Genome Biology 23, no. 1 (2022): 1-24.'
+citation: 'Yuelin Yao, Shuli Liu, Charley Xia, Yahui Gao, Zhangyuan Pan, Oriol Canela-Xandri, Ava Khamseh et al. "Comparative transcriptome in large-scale human and cattle populations." Genome Biology 23, no. 1 (2022): 1-24.'
 ---
 
 [Download paper here](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02745-4)
