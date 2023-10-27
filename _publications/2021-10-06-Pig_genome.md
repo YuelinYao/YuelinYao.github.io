@@ -6,7 +6,7 @@ excerpt: 'The functional annotation of livestock genomes is crucial for understa
 date: 2021-10-06
 venue: 'Nature Communications'
 paperurl: ''
-citation: 'Pan, Zhangyuan*, Yuelin Yao*, Hongwei Yin, Zexi Cai, Ying Wang, Lijing Bai, Colin Kern et al. "Pig genome functional annotation enhances the biological interpretation of complex traits and human disease." Nature communications 12, no. 1 (2021): 5848.'
+citation: 'Zhangyuan Pan*, Yuelin Yao*, Hongwei Yin, Zexi Cai, Ying Wang, Lijing Bai, Colin Kern et al. "Pig genome functional annotation enhances the biological interpretation of complex traits and human disease." Nature communications 12, no. 1 (2021): 5848.'
 ---
 
 [Download paper here](https://www.nature.com/articles/s41467-021-26153-7)
