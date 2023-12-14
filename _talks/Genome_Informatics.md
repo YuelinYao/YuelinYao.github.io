@@ -7,6 +7,8 @@ venue: "Cold Spring Harbor Laboratory"
 date: 2023-12-06
 location: "1 Bungtown Rd, Cold Spring Harbor, NY 11724, United States"
 ---
+*This meeting will draw together researchers focused on genomic data science research*
+
 
 INFO
 ======
