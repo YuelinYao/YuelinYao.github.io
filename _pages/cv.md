@@ -11,7 +11,7 @@ redirect_from:
    <img src="../images/Agmh.gif" />
 </p>
 
-To learn more about me, please [download](Yuelin_CV.pdf) my CV [Updated August 2023].
+To learn more about me, please [download](Yuelin_CV.pdf) my CV [Updated 2024].
 
 
 
