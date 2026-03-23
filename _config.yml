@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuelin Yao"
 title_separator          : "-"
 name                     : &name "Yuelin"
-description              : &description "PhD student at School of Informatics, University of Edinburgh and MRC Human Genetics Unit, Institute of Genetics and Cancer."
+description              : &description "Postdoctoral Fellow at the University of Cambridge"
 url                      : https://YuelinYao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuelinYao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuelin Yao"
   avatar           : "Profile_5.jpg"
-  bio              : "PhD student at School of Informatics, Univeristy of Edinburgh"
-  location         : "Edinburgh, UK"
+  bio              : "Postdoctoral Fellow at the University of Cambridge"
+  location         : "Cambridge, UK"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=RPoZ-I8AAAAJ&hl=en"
-  email            : "y.yao-38@sms.ed.ac.uk"
+  email            : "yy605@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
